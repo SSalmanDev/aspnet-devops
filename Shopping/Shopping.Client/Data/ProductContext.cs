@@ -46,7 +46,7 @@ namespace Shopping.Client.Data
                 Price= 650.00M,
                 Category="SmartPhone"
 
-            },,
+            },
              new Product()
             {
                 Name= "Salman",
